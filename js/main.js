@@ -221,6 +221,7 @@ require([], function (){
 			});
 			showArticle();
 		}
+
 	}
 
 	//是否新窗口打开链接
