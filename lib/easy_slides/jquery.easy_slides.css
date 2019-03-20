@@ -490,14 +490,14 @@
 .nav_indicators ul li {
     position: static;
     display: inline-block;
-    width: 20px;
-    height: 20px;
+    width: 10px;
+    height: 10px;
     margin: 10px;
     padding: 0;
     overflow: hidden;
     background: #fff;
     color: #fff;
-    border: 2px solid #000;
+    border: 1px solid #000;
     border-radius: 50%;
     cursor: pointer;
 }
