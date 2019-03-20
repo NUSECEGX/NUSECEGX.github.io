@@ -1664,7 +1664,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4e2588;
+  background: #627567;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2452,29 +2452,35 @@ body {
   background: url("../images/background.png");
   background-attachment: fixed;
   background-position: 50% 50%;
+mobile()
 }
 .container {
   position: relative;
   min-height: 100%;
+mobile()
 }
 .headband {
   height: 1.5px;
   background-image: linear-gradient(90deg, #f79533 0%, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%);
+mobile()
 }
 .posts-expand .post-eof {
   margin: 0px;
   background-color: rgba(255,255,255,0);
+mobile()
 }
 .header-inner {
   margin: 0 auto;
   padding: 30px 0 0px;
   width: 100%;
+mobile()
 }
 .main {
   padding-bottom: 150px;
   margin-top: 0px;
   padding: 0px;
   border: 0px;
+mobile()
 }
 .main-inner {
   margin: 0 auto;
@@ -2487,6 +2493,7 @@ body {
   -moz-box-shadow: 30px 0 100px rgba(202,203,204,0.5);
   box-shadow: 0px 10px 20px 8px #ccc;
   background: #fff;
+mobile()
 }
 .footer {
   background: #81afea;
@@ -2499,15 +2506,18 @@ body {
   bottom: 0;
   width: 100%;
   min-height: 50px;
+mobile()
 }
 .menu {
   border: 2px solid #000;
+mobile()
 }
 .footer-inner {
   box-sizing: border-box;
   margin: 0px;
   width: 1000px;
   padding-top: 7px;
+mobile()
 }
 @media (min-width: 1600px) {
   .container .footer-inner {
@@ -2549,9 +2559,11 @@ h6 {
   word-break: break-word;
   font-weight: bold;
   border-bottom: 0px;
+mobile()
 }
 .posts-expand {
   padding-bottom: 50px;
+mobile()
 }
 p {
   margin: 20px 25px 20px 25px;
@@ -2595,4 +2607,5 @@ table {
   font-size: 14px;
   table-layout: fixed;
   word-wrap: break-all;
+mobile()
 }
