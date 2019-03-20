@@ -1883,7 +1883,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d2ff5d;
+  background: #1b268f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2808,9 +2808,9 @@ body {
 .footer-inner {
   box-sizing: border-box;
   margin: 0px;
-  border: 2px solid #000;
+  padding-top: 8px;
   width: 100%;
-  padding-top: 7px;
+  border-top: 2px solid #000;
 }
 @media (min-width: 1600px) {
   .container .footer-inner {
