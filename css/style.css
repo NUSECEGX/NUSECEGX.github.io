@@ -1929,7 +1929,7 @@ pre .javascript .function {
 @media screen and (max-width: 479px) {
   #mobile-nav {
     position: absolute;
-    z-index: 3;
+    z-index: 5;
     top: 0;
     left: 0;
     width: 100%;
