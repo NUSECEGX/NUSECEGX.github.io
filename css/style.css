@@ -294,7 +294,7 @@ body {
   position: relative;
 }
 .mobile-nav-on {
-  overflow: left;
+  overflow: hidden;
 }
 #wrap {
   width: 100%;
