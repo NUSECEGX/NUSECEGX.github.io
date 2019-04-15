@@ -3,7 +3,7 @@
 .slider_one_big_picture {
     position: relative;
     width: 40vw;
-    height: 20vw;
+    height: 27vw;
     margin: 0 auto;
     user-select: none;
     /*overflow: hidden;*/
@@ -158,10 +158,11 @@
 
 .slider_circle_10 {
     position: relative;
-    width: 70vw;
+    width: 47vw;
     /* 640px; */
-    height: 53.2vw;
+    height: 44vw;
     margin: 0 auto;
+    margin-top: -5vw;
     user-select: none;
 }
 
@@ -275,8 +276,8 @@
 /*********************************/
 
 .slider_four_in_line {
-    width: 100vw;
-    height: 19.5vw;
+    width: 50vw;
+    height: 10vw;
     position: relative;
     margin: 0 auto;
     user-select: none;
@@ -371,10 +372,10 @@
     position: absolute;
     left: 50%;
     top: 50%;
-    margin-left: -200px;
-    margin-top: -125px;
-    width: 400px;
-    height: 250px;
+    margin-left: -300px;
+    margin-top: -225px;
+    width: 600px;
+    height: 400px;
     transform: rotate(0deg);
     opacity: 1;
     z-index: 10;
